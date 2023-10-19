@@ -5,12 +5,10 @@
 ## 使用方法
 
 ```shell
-wget -N --no-check-certificate https://raw.githubusercontents.com/UtopiaLee/acme-1key/master/acme1key.sh && bash acme1key.sh
+wget -N --no-check-certificate https://raw.githubusercontents.com/UtopiaLee/acme-1key/master/acmeauto.sh && bash acmeauto.sh
 ```
 
 快捷方式 `bash acme1key.sh`
-
-说明文档：https://owo.misaka.rest/acme-1key/
 
 ## 提示
 
